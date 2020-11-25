@@ -11,7 +11,7 @@ This implementation condiders a dataset of numbers 0-8 in binary form and classi
 the results are not stable as the vector dimension of data point is 3 and the number of points are 6 (too low!!)
 
   
-reqirement = {
+  reqirement = {
 
         'qiskit-terra': '0.16.1', 
         'qiskit-aer': '0.7.1', 
